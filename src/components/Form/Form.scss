@@ -1,0 +1,25 @@
+.container-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.title-form {
+  font-size: 14px;
+}
+
+.input-form {
+  padding: 15px;
+  border-radius: 5px;
+  border: 1px solid #bbbaba;
+}
+
+.button-form {
+  padding: 15px;
+  background-color: #282c43;
+  color: #fff;
+  border-radius: 5px;
+  margin: 10px 0;
+  border: none;
+  font-weight: bold;
+}
